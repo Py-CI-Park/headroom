@@ -105,6 +105,7 @@ nav:
     - Agno: agno.md
     - Strands: strands.md
     - MCP Tools: mcp.md
+    - Agent Harnesses: agent-harness-headroom.md
   - How It Works:
     - Architecture: ARCHITECTURE.md
     - Transforms Pipeline: transforms.md
